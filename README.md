@@ -1,2 +1,3 @@
-# SitePortifolio
-site construído com HTML CSS JS = meu portifolio
+Calculadora IMC 
+
+Criado com HTML, CSS e Javascript
